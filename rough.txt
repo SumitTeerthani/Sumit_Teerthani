@@ -1,0 +1,9 @@
+<div class="intro relative overflow-hidden rounded-lg bg-cover bg-no-repeat m-4 mb-0 p-12 text-center blur-sm object-cover " 
+style="background-image: url('Images/clement-helardot-95YRwf6CNw8-unsplash.jpg'); height: 1000px; width:auto;">
+ 
+  
+</div>
+<div class="blur-none">
+  <h1 class="text-[#f5a425]"> Hello</h1>
+  <h1>I am  <span class="text-[#f5a425]" > Sumit</span> , a Web Developer</h1>
+</div>
